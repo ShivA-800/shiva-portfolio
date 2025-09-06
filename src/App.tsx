@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from 'react';
-import emailjs from 'emailjs-com';
 // Typewriter effect for roles
 const roles = [
   'Cybersecurity 🛡️',
